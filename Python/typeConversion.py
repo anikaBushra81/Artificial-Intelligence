@@ -1,0 +1,12 @@
+x=12
+y=12.23
+z=1+2j
+a=float(x)
+b=int(y)
+c=complex(x)
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
