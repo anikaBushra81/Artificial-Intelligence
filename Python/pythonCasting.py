@@ -1,0 +1,6 @@
+x=int("222")
+y=float(20)
+z=float("22")
+print(x)
+print(y)
+print(z)
