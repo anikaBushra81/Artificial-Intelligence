@@ -7,3 +7,4 @@ x,y,z=number
 print(x)
 print(y)
 print(z)
+print(*number)

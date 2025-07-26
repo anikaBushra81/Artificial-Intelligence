@@ -1,5 +1,5 @@
 def myFun():
-    return True
+    return 'popoihjh'
 
 if myFun():
     print("yes")
